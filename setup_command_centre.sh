@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# setup_command_centre.sh (v3 - permission-safe, paste-safe)
+# setup_command_centre.sh 
 # --------------------------------------------------------------
 # Bootstraps everything needed to run "Command Centre" on Ubuntu.
 # No sudo is used for venv creation or pip installs, avoiding the
