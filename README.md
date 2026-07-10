@@ -76,6 +76,5 @@ Click on any marker on the globe to view headline details in the side panel. Dea
 - Classification uses simple keyword matching, not NLP/ML, so misclassification can occur on ambiguous headlines.
 - Some RSS feeds (e.g., Reuters, AP, Bloomberg) may be inconsistently available or rate-limited depending on region and time.
 
-## License
 
-Add a license of your choice (e.g., MIT) here.
+
