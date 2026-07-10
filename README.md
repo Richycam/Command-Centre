@@ -29,9 +29,7 @@ A more fun way to read the news — Command Centre pulls live headlines from maj
 | `setup_command_centre.sh` | Ubuntu bootstrap script: installs system prerequisites, creates a user-owned virtualenv, and installs Python packages. |
 
 ## Requirements
-
-- Python 3.10+ (uses `match` statements and modern type-hint syntax like `list[str] | None`)
-- Ubuntu/Debian-based Linux recommended for the setup script (macOS/Windows can install dependencies manually)
+- Python 3.10+ 
 
 ## Installation
 
